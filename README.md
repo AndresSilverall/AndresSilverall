@@ -1,4 +1,4 @@
-![Header](https://github.com/AndresSilverall/AndresSilverall/blob/main/readme_banner.png?raw=true&width=400)
+![mybanner](https://github.com/AndresSilverall/AndresSilverall/blob/main/readme_banner.png?raw=true&width=400)
 
 
 # 💫 Sobre mi:
