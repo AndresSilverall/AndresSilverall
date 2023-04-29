@@ -1,8 +1,10 @@
-![Header](https://github.com/AndresSilverall/AndresSilverall/blob/main/readme_banner.png?raw=true)
+![Header](https://github.com/AndresSilverall/AndresSilverall/blob/main/readme_banner.png?raw=true&width=400)
+
 
 # 💫 Sobre mi:
 Hola! ✋ Mi nombre es Andrés Silvera, tengo 23 años, soy estudiante de Desarrollo de software, soy un gran apasionado del mundo de la programación, mi campo de interés es la programación del lado del servidor.<br><br>Me gusta construir y programar aplicaciones de software, así como también el desarrollo de proyectos de software en equipo a través de marcos de trabajos agiles como Scrum, tengo conocimientos en el ciclo de vida del software (planificación, análisis, diseño, implementación, pruebas, despliegue y mantenimiento).<br><br>Aplicación de buenas practicas de código como patrones de diseños y patrones de arquitecturas, sólidos conocimientos en programación funcional y programación orientada a objetos, Conocimientos en el siguiente Stack:<br><br>- Python (Django/Rest, Flask, FastAPI)<br>- Librerías (Pandas, Numpy, Matplotlib)<br>- JavaScript (node Js, express Js)<br>- SQL (PostgreSQL, MySQL, SQLite)<br>- NoSQL (MongoDB)<br>- ORM (SQLAlchemy)<br>- Testing (Unit testing, pruebas funcionales, TDD)<br>- Sistema de control de versiones (Git)<br>- Contenedores de software (Docker)<br>- GNU/Linux (Bash Scripting)<br><br>Abierto a contribuir y seguir aprendiendo del mundo de la programación y de la industria TI. Actualmente sigo aprendiendo sobre las tecnologías emergentes en el mundo de la programación, así como también nuevos Frameworks Backends para profundizar en esta área. 🚀
 
+![Header](https://github.com/AndresSilverall/AndresSilverall/blob/main/banner.gif?raw=true)
 
 ## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrés-felipe-silvera-196982253/) 
